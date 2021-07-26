@@ -1,0 +1,140 @@
+Manchester City
+38
+27
+5
+83
+32
+wlwlw
+Manchester United
+38
+21
+11
+73
+44
+wlldw
+Liverpool
+38
+20
+9
+68
+42
+wwwww
+Chelsea
+38
+19
+10
+58
+32
+wwlwl
+Leicester City
+38
+20
+6
+68
+50
+dlwll
+West Ham United
+38
+19
+8
+62
+47
+wldww
+Tottenham Hotspur
+38
+18
+8
+68
+45
+wlwlw
+Arsenal
+38
+18
+7
+55
+39
+wwwww
+Leeds United
+38
+18
+5
+62
+54
+lwwww
+Everton
+38
+17
+8
+47
+48
+wdlwl
+Aston Villa
+38
+16
+7
+55
+46
+ldlww
+Newcastle United
+38
+12
+9
+46
+62
+lwlww
+Wolverampton Wanderers
+38
+12
+9
+36
+52
+dlwll
+Crystal Palace
+38
+12
+8
+41
+66
+wlwll
+Southampton
+38
+12
+7
+47
+68
+lwwll
+Brighton and Hove Albion
+38
+9
+14
+40
+46
+wdlwl
+Burnley
+38
+10
+9
+33
+55
+lwlll
+Fullham
+38
+5
+13
+37
+53
+llldl
+West Bromwich Albion
+38
+5
+11
+35
+76
+dllll
+Sheffield United
+38
+7
+2
+20
+63
+llwlw
